@@ -1,0 +1,3 @@
+memmove,0x8009309
+memcpy,0x8001085
+_svfprintf_r,0x8005d6d

@@ -1,0 +1,2 @@
+memmove,0x8005623
+memcpy,0x800560d

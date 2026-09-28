@@ -1,0 +1,20 @@
+Explicit configuration begin:
+fw_path: /home/user/fuzzware/targets/P2IM/Robot
+bin: /home/user/fuzzware/targets/P2IM/Robot/Robot.elf
+analysis_type: ['find_copy_functions']
+copy_functions_path: /home/user/fuzzware/targets/P2IM/Robot/copy_functions.txt
+statistics_path: /home/user/fuzzware/targets/P2IM/Robot/stats_copy_functions.txt
+copy_functions_results: /home/user/fuzzware/targets/P2IM/Robot/copy_functions.txt
+statistics_results: /home/user/fuzzware/targets/P2IM/Robot/stats_copy_functions.txt
+Explicit configuration end:
+Default configuration begin:
+fw_path: /home/user/fuzzware/targets/P2IM/Robot
+bin: /home/user/fuzzware/targets/P2IM/Robot/Robot.elf
+analysis_type: ['find_copy_functions']
+copy_functions_path: /home/user/fuzzware/targets/P2IM/Robot/copy_functions.txt
+statistics_path: /home/user/fuzzware/targets/P2IM/Robot/stats_copy_functions.txt
+copy_functions_results: /home/user/fuzzware/targets/P2IM/Robot/copy_functions.txt
+statistics_results: /home/user/fuzzware/targets/P2IM/Robot/stats_copy_functions.txt
+Default configuration end:
+find_copy_functions=864.64 secs
+Total=864.64 secs

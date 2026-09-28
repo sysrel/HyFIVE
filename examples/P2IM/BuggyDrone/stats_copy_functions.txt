@@ -1,0 +1,20 @@
+Explicit configuration begin:
+fw_path: /home/tuba/Documents/tools/fuzzware/examples/P2IM/BuggyDrone
+bin: /home/tuba/Documents/tools/fuzzware/examples/P2IM/BuggyDrone/Drone.elf
+analysis_type: ['find_copy_functions']
+copy_functions_path: /home/tuba/Documents/tools/fuzzware/examples/P2IM/BuggyDrone/copy_functions.txt
+statistics_path: /home/tuba/Documents/tools/fuzzware/examples/P2IM/BuggyDrone/stats_copy_functions.txt
+copy_functions_results: /home/tuba/Documents/tools/fuzzware/examples/P2IM/BuggyDrone/copy_functions.txt
+statistics_results: /home/tuba/Documents/tools/fuzzware/examples/P2IM/BuggyDrone/stats_copy_functions.txt
+Explicit configuration end:
+Default configuration begin:
+fw_path: /home/tuba/Documents/tools/fuzzware/examples/P2IM/BuggyDrone
+bin: /home/tuba/Documents/tools/fuzzware/examples/P2IM/BuggyDrone/Drone.elf
+analysis_type: ['find_copy_functions']
+copy_functions_path: /home/tuba/Documents/tools/fuzzware/examples/P2IM/BuggyDrone/copy_functions.txt
+statistics_path: /home/tuba/Documents/tools/fuzzware/examples/P2IM/BuggyDrone/stats_copy_functions.txt
+copy_functions_results: /home/tuba/Documents/tools/fuzzware/examples/P2IM/BuggyDrone/copy_functions.txt
+statistics_results: /home/tuba/Documents/tools/fuzzware/examples/P2IM/BuggyDrone/stats_copy_functions.txt
+Default configuration end:
+find_copy_functions=101.07 secs
+Total=101.07 secs
